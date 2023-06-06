@@ -1,10 +1,7 @@
-
-
-
 <h1 align="center"> FCC-4-Registration Form </h1>
 
 ## Getting Started:
-- It is a HTML project for exploring the deep basic understanding of HTML
+- It is a HTML project for exploring the deep basic understanding of HTML elements that are useful for the registration form.
 
 ## Tech stack:
 - browser
@@ -28,11 +25,11 @@
     - To change the margin property we can include value(1em) on the top and bottom, while leaving the right and left margins set to auto or any other value.
 
 <!-- ## application shots -->
-
+<img alt="application snip" src="https://github.com/Sangi19/FCC-4-Registration-form/blob/main/Capture.PNG" />
 <!-- ![image1](https://github.com/Sangi19/lob/main/image/image1.PNG)-->
 
 ## Deploy on Vercel:
-- vercel Link -
+- vercel Link - https://fcc-4-registration-form.vercel.app/
 
 ## Built by
 
