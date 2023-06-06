@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center"> FCC-4-RegistrationForm </h1>
+<h1 align="center"> FCC-4-Registration Form </h1>
 
 ## Getting Started:
 - It is a HTML project for exploring the deep basic understanding of HTML
